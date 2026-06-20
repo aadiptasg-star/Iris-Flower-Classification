@@ -1,5 +1,7 @@
 # Iris Flower Classification
 
+![Pair Plot](images/pairplot.png)
+
 ## Project Overview
 
 This machine learning project classifies Iris flowers into three species:
